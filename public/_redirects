@@ -6,3 +6,20 @@
 /date-of-death /purposes/date-of-death 301
 /credibility /desktop-appraisal-credibility 301
 /photos /upload 301
+# Legacy paths from the pre-2026 cwift.com site (San Diego County service-area pages, last crawled Nov 2026)
+/Service_Area /california 301
+/Service_Area/* /california 301
+/Appraisal_Services/tax_reassessment.html /purposes/property-tax-appeal 301
+/Appraisal_Services/reassessment_sample.pdf /purposes/property-tax-appeal 301
+/Appraisal_Services /purposes 301
+/Appraisal_Services/* /purposes 301
+/contact_information /contact 301
+/contact_information/* /contact 301
+/Contact_Information /contact 301
+/Contact_Information/* /contact 301
+/Order_an_Appraisal /order 301
+/Order_an_Appraisal/* /order 301
+/Order_An_Appraisal /order 301
+/Order_An_Appraisal/* /order 301
+/Sitemap.html / 301
+/sitemap.xml.gz /sitemap.xml 301
