@@ -1,0 +1,40 @@
+# Cwift (cwift.com)
+
+> Cwift provides 24-hour desktop appraisals of California single-family homes and condominiums. Reports are prepared and signed by Brian Ward, California Certified Residential Real Estate Appraiser (license AR036053, California Bureau of Real Estate Appraisers), appraising since 2004, 7,000+ appraisals. Delivery is within 24 hours of payment and photos, seven days a week. Cwift is a service of Brian Ward Appraisal (https://www.brianward.com); its sister site date-of-death.com offers the same reports on a standard schedule.
+
+## Key facts
+- Service: desktop residential appraisal under USPAP (no site visit; client photos, public records, MLS data, comparable sales analysis)
+- 24-hour fees: Basic Desktop $450; Standard Desktop $675 (the standard fee plus 50%, rounded to the nearest $5)
+- Standard turnaround: Basic $299, Standard $449, delivered in 5–10 business days
+- The 24-hour clock: The 24-hour clock starts when both your payment and your photos and property details have arrived, and it runs seven days a week, weekends and holidays included.
+- Coverage: all 58 California counties
+- Properties: single-family homes and condominiums, including townhomes and PUD homes; not 2–4 unit buildings, apartment buildings, commercial property and vacant land; not for mortgage lending
+- Contact: email contact@cwift.com or the online order form at https://www.cwift.com/order (no phone line; email and online submission are the fastest way to receive service)
+- Photos: upload at https://www.cwift.com/upload or attach to email
+- Suitability: Brian Ward has prepared desktop appraisals for every purpose listed on this site. Some situations still call for an inspection-based appraisal, so check with your attorney or tax advisor before you order to be sure a desktop report fits your matter.
+
+## Purposes (date of death listed first)
+- [Date of Death & Step-Up in Basis](https://www.cwift.com/purposes/date-of-death): Retrospective value on the date of death to support the heirs' new tax basis.
+- [Trust & Estate Administration](https://www.cwift.com/purposes/trust-estate): Certified values for trustees and executors: accountings, distributions and trust sales.
+- [Divorce & Family Law](https://www.cwift.com/purposes/divorce): Current or date-of-separation values for buyouts, mediation and settlement talks.
+- [Family Transfers & Co-Owner Buyouts](https://www.cwift.com/purposes/family-transfers): A fair, documented price when a home changes hands inside the family.
+- [Gift Tax (Form 709)](https://www.cwift.com/purposes/gift-tax): Fair market value of gifted real estate on the date of transfer, for the gift-tax return.
+- [Prop 19 Parent-Child Transfers](https://www.cwift.com/purposes/prop-19): Market value on the transfer date, to see how much of the old tax base survives.
+- [Property Tax Appeals](https://www.cwift.com/purposes/property-tax-appeal): Independent market value evidence for Prop 8 reviews and assessment appeals.
+- [Bankruptcy](https://www.cwift.com/purposes/bankruptcy): Home values for Chapter 7 and 13 schedules, exemptions and plan math.
+- [Pre-Listing Pricing](https://www.cwift.com/purposes/pre-listing): An independent value before you set the list price.
+- [Pre-Purchase Value Check](https://www.cwift.com/purposes/pre-purchase): An independent price check while your contingency period is still open.
+- [Immigration Sponsors (Form I-864)](https://www.cwift.com/purposes/immigration): Home equity documented for an I-864 Affidavit of Support.
+- [Bail & Property Bonds](https://www.cwift.com/purposes/bail-bonds): Current value to document equity for a property bond or bail collateral.
+
+## Key pages
+- [Fees](https://www.cwift.com/pricing)
+- [How 24-hour delivery works](https://www.cwift.com/how-it-works)
+- [Why desktop appraisals work for most purposes](https://www.cwift.com/desktop-appraisals)
+- [Credibility brief: why desktop appraisals are credible](https://www.cwift.com/desktop-appraisal-credibility) (PDF: https://www.cwift.com/cwift-desktop-appraisal-credibility-brief.pdf)
+- [FAQ](https://www.cwift.com/faq)
+- [California coverage](https://www.cwift.com/california)
+- [About Brian Ward](https://www.cwift.com/about)
+- [Order](https://www.cwift.com/order)
+
+Full text: https://www.cwift.com/llms-full.txt

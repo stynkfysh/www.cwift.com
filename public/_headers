@@ -1,0 +1,35 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+  Content-Security-Policy: default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; font-src 'self'; script-src 'self' https://challenges.cloudflare.com https://static.cloudflareinsights.com; frame-src https://challenges.cloudflare.com; connect-src 'self' https://cloudflareinsights.com https://challenges.cloudflare.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+
+/images/*
+  Cache-Control: public, max-age=2592000
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/styles.css
+  Cache-Control: public, max-age=86400
+
+/main.js
+  Cache-Control: public, max-age=86400
+
+/api/*
+  ! Cache-Control
+  Cache-Control: no-store
+
+/*.txt
+  Cache-Control: public, max-age=3600
+
+/cwift-desktop-appraisal-credibility-brief.pdf
+  Content-Type: application/pdf
+  Cache-Control: public, max-age=86400
+
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex
