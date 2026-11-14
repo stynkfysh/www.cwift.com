@@ -7,8 +7,11 @@
 /credibility /desktop-appraisal-credibility 301
 /photos /upload 301
 # Legacy paths from the pre-2026 cwift.com site (San Diego County service-area pages, last crawled Nov 2026)
-/Service_Area /california 301
-/Service_Area/* /california 301
+/Service_Area /california/san-diego-county 301
+/Service_Area/* /california/san-diego-county 301
+/california/san-francisco-county /california/san-francisco 301
+/areas /california 301
+/areas/* /california/:splat 301
 /Appraisal_Services/tax_reassessment.html /purposes/property-tax-appeal 301
 /Appraisal_Services/reassessment_sample.pdf /purposes/property-tax-appeal 301
 /Appraisal_Services /purposes 301

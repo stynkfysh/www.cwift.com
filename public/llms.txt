@@ -7,7 +7,8 @@
 - 24-hour fees: Basic Desktop $450; Standard Desktop $675
 - Standard turnaround: Basic $299, Standard $449, delivered in 5–10 business days
 - The 24-hour clock: The 24-hour clock starts when both your payment and your photos and property details have arrived, and it runs seven days a week, weekends and holidays included.
-- Coverage: all 58 California counties
+- Coverage: all 58 California counties (207 county, city and neighborhood pages under https://www.cwift.com/california)
+- Also called: People also call a desktop appraisal a virtual appraisal, a remote appraisal, an online home appraisal or an appraisal without an inspection. Whatever the name, it is a full appraisal by a state-certified appraiser, made without a site visit.
 - Properties: single-family homes and condominiums, including townhomes and PUD homes; not 2–4 unit buildings, apartment buildings, commercial property and vacant land; not for mortgage lending
 - Contact: email contact@cwift.com or the online order form at https://www.cwift.com/order (no phone line; email and online submission are the fastest way to receive service)
 - Photos: upload at https://www.cwift.com/upload or attach to email
@@ -33,8 +34,70 @@
 - [Why desktop appraisals work for most purposes](https://www.cwift.com/desktop-appraisals)
 - [Credibility brief: why desktop appraisals are credible](https://www.cwift.com/desktop-appraisal-credibility) (PDF: https://www.cwift.com/cwift-desktop-appraisal-credibility-brief.pdf)
 - [FAQ](https://www.cwift.com/faq)
-- [California coverage](https://www.cwift.com/california)
+- [California coverage: every county, city and neighborhood page](https://www.cwift.com/california)
 - [About Brian Ward](https://www.cwift.com/about)
 - [Order](https://www.cwift.com/order)
+
+## County pages
+- [Alameda County](https://www.cwift.com/california/alameda-county): county seat Oakland; 2026 assessment-appeal filing deadline September 15
+- [Alpine County](https://www.cwift.com/california/alpine-county): county seat Markleeville; 2026 assessment-appeal filing deadline September 15
+- [Amador County](https://www.cwift.com/california/amador-county): county seat Jackson; 2026 assessment-appeal filing deadline November 30
+- [Butte County](https://www.cwift.com/california/butte-county): county seat Oroville; 2026 assessment-appeal filing deadline November 30
+- [Calaveras County](https://www.cwift.com/california/calaveras-county): county seat San Andreas; 2026 assessment-appeal filing deadline November 30
+- [Colusa County](https://www.cwift.com/california/colusa-county): county seat Colusa; 2026 assessment-appeal filing deadline November 30
+- [Contra Costa County](https://www.cwift.com/california/contra-costa-county): county seat Martinez; 2026 assessment-appeal filing deadline November 30
+- [Del Norte County](https://www.cwift.com/california/del-norte-county): county seat Crescent City; 2026 assessment-appeal filing deadline November 30
+- [El Dorado County](https://www.cwift.com/california/el-dorado-county): county seat Placerville; 2026 assessment-appeal filing deadline November 30
+- [Fresno County](https://www.cwift.com/california/fresno-county): county seat Fresno; 2026 assessment-appeal filing deadline November 30
+- [Glenn County](https://www.cwift.com/california/glenn-county): county seat Willows; 2026 assessment-appeal filing deadline November 30
+- [Humboldt County](https://www.cwift.com/california/humboldt-county): county seat Eureka; 2026 assessment-appeal filing deadline November 30
+- [Imperial County](https://www.cwift.com/california/imperial-county): county seat El Centro; 2026 assessment-appeal filing deadline November 30
+- [Inyo County](https://www.cwift.com/california/inyo-county): county seat Independence; 2026 assessment-appeal filing deadline September 15
+- [Kern County](https://www.cwift.com/california/kern-county): county seat Bakersfield; 2026 assessment-appeal filing deadline November 30
+- [Kings County](https://www.cwift.com/california/kings-county): county seat Hanford; 2026 assessment-appeal filing deadline September 15
+- [Lake County](https://www.cwift.com/california/lake-county): county seat Lakeport; 2026 assessment-appeal filing deadline November 30
+- [Lassen County](https://www.cwift.com/california/lassen-county): county seat Susanville; 2026 assessment-appeal filing deadline November 30
+- [Los Angeles County](https://www.cwift.com/california/los-angeles-county): county seat Los Angeles; 2026 assessment-appeal filing deadline November 30
+- [Madera County](https://www.cwift.com/california/madera-county): county seat Madera; 2026 assessment-appeal filing deadline November 30
+- [Marin County](https://www.cwift.com/california/marin-county): county seat San Rafael; 2026 assessment-appeal filing deadline November 30
+- [Mariposa County](https://www.cwift.com/california/mariposa-county): county seat Mariposa; 2026 assessment-appeal filing deadline November 30
+- [Mendocino County](https://www.cwift.com/california/mendocino-county): county seat Ukiah; 2026 assessment-appeal filing deadline November 30
+- [Merced County](https://www.cwift.com/california/merced-county): county seat Merced; 2026 assessment-appeal filing deadline November 30
+- [Modoc County](https://www.cwift.com/california/modoc-county): county seat Alturas; 2026 assessment-appeal filing deadline November 30
+- [Mono County](https://www.cwift.com/california/mono-county): county seat Bridgeport; 2026 assessment-appeal filing deadline September 15
+- [Monterey County](https://www.cwift.com/california/monterey-county): county seat Salinas; 2026 assessment-appeal filing deadline November 30
+- [Napa County](https://www.cwift.com/california/napa-county): county seat Napa; 2026 assessment-appeal filing deadline November 30
+- [Nevada County](https://www.cwift.com/california/nevada-county): county seat Nevada City; 2026 assessment-appeal filing deadline November 30
+- [Orange County](https://www.cwift.com/california/orange-county): county seat Santa Ana; 2026 assessment-appeal filing deadline November 30
+- [Placer County](https://www.cwift.com/california/placer-county): county seat Auburn; 2026 assessment-appeal filing deadline September 15
+- [Plumas County](https://www.cwift.com/california/plumas-county): county seat Quincy; 2026 assessment-appeal filing deadline November 30
+- [Riverside County](https://www.cwift.com/california/riverside-county): county seat Riverside; 2026 assessment-appeal filing deadline November 30
+- [Sacramento County](https://www.cwift.com/california/sacramento-county): county seat Sacramento; 2026 assessment-appeal filing deadline November 30
+- [San Benito County](https://www.cwift.com/california/san-benito-county): county seat Hollister; 2026 assessment-appeal filing deadline November 30
+- [San Bernardino County](https://www.cwift.com/california/san-bernardino-county): county seat San Bernardino; 2026 assessment-appeal filing deadline November 30
+- [San Diego County](https://www.cwift.com/california/san-diego-county): county seat San Diego; 2026 assessment-appeal filing deadline November 30
+- [San Francisco](https://www.cwift.com/california/san-francisco): county seat San Francisco; 2026 assessment-appeal filing deadline September 15
+- [San Joaquin County](https://www.cwift.com/california/san-joaquin-county): county seat Stockton; 2026 assessment-appeal filing deadline November 30
+- [San Luis Obispo County](https://www.cwift.com/california/san-luis-obispo-county): county seat San Luis Obispo; 2026 assessment-appeal filing deadline September 15
+- [San Mateo County](https://www.cwift.com/california/san-mateo-county): county seat Redwood City; 2026 assessment-appeal filing deadline November 30
+- [Santa Barbara County](https://www.cwift.com/california/santa-barbara-county): county seat Santa Barbara; 2026 assessment-appeal filing deadline November 30
+- [Santa Clara County](https://www.cwift.com/california/santa-clara-county): county seat San Jose; 2026 assessment-appeal filing deadline September 15
+- [Santa Cruz County](https://www.cwift.com/california/santa-cruz-county): county seat Santa Cruz; 2026 assessment-appeal filing deadline November 30
+- [Shasta County](https://www.cwift.com/california/shasta-county): county seat Redding; 2026 assessment-appeal filing deadline November 30
+- [Sierra County](https://www.cwift.com/california/sierra-county): county seat Downieville; 2026 assessment-appeal filing deadline September 15
+- [Siskiyou County](https://www.cwift.com/california/siskiyou-county): county seat Yreka; 2026 assessment-appeal filing deadline November 30
+- [Solano County](https://www.cwift.com/california/solano-county): county seat Fairfield; 2026 assessment-appeal filing deadline November 30
+- [Sonoma County](https://www.cwift.com/california/sonoma-county): county seat Santa Rosa; 2026 assessment-appeal filing deadline November 30
+- [Stanislaus County](https://www.cwift.com/california/stanislaus-county): county seat Modesto; 2026 assessment-appeal filing deadline November 30
+- [Sutter County](https://www.cwift.com/california/sutter-county): county seat Yuba City; 2026 assessment-appeal filing deadline November 30
+- [Tehama County](https://www.cwift.com/california/tehama-county): county seat Red Bluff; 2026 assessment-appeal filing deadline November 30
+- [Trinity County](https://www.cwift.com/california/trinity-county): county seat Weaverville; 2026 assessment-appeal filing deadline November 30
+- [Tulare County](https://www.cwift.com/california/tulare-county): county seat Visalia; 2026 assessment-appeal filing deadline November 30
+- [Tuolumne County](https://www.cwift.com/california/tuolumne-county): county seat Sonora; 2026 assessment-appeal filing deadline November 30
+- [Ventura County](https://www.cwift.com/california/ventura-county): county seat Ventura; 2026 assessment-appeal filing deadline September 15
+- [Yolo County](https://www.cwift.com/california/yolo-county): county seat Woodland; 2026 assessment-appeal filing deadline November 30
+- [Yuba County](https://www.cwift.com/california/yuba-county): county seat Marysville; 2026 assessment-appeal filing deadline November 30
+
+City and neighborhood pages (the same 24-hour service, with local housing notes) are listed under each county at https://www.cwift.com/california and in https://www.cwift.com/sitemap.xml.
 
 Full text: https://www.cwift.com/llms-full.txt
